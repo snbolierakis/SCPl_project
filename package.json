@@ -1,0 +1,21 @@
+{
+  "name": "nart",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "express-hello.js",
+  "scripts": {
+    "test": "node express-hello.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "redis",
+    "angular"
+  ],
+  "author": "Spyros Bolierakis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "redis": "^2.6.5"
+  }
+}
